@@ -325,12 +325,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output screen shots of proteus  :
-##off:
+##on:
 
 ![Screenshot 2023-04-25 161155](https://user-images.githubusercontent.com/94185707/236784432-727c8800-5e56-4f81-86d3-0fec7529cb20.jpg)
 
 
-##on:
+##off:
 
 ![2](https://user-images.githubusercontent.com/94185707/236784598-07b94799-8759-42de-9dd3-8abd595cbcdf.jpg)
 
